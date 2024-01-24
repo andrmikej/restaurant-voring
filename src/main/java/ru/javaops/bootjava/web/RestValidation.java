@@ -4,6 +4,9 @@ import lombok.experimental.UtilityClass;
 import ru.javaops.bootjava.HasId;
 import ru.javaops.bootjava.error.IllegalRequestDataException;
 
+import java.time.LocalDate;
+import java.time.LocalTime;
+
 @UtilityClass
 public class RestValidation {
 
